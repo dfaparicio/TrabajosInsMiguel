@@ -1,0 +1,38 @@
+[
+  {
+    "nombre": "Actividad001",
+    "descripcion": "Que es JavaScript",
+    "estado": "PENDIENTE",
+    "idusuario": "123"
+  },
+    {
+    "nombre": "Actividad002",
+    "descripcion": "Que es Gemini AI",
+    "estado": "PENDIENTE",
+    "idusuario": "233"
+  },
+      {
+    "nombre": "Actividad003",
+    "descripcion": "Que es Gemini AI",
+    "estado": "PENDIENTE",
+    "idusuario": "233"
+  },
+      {
+    "nombre": "Actividad004",
+    "descripcion": "Que es Gemini AI",
+    "estado": "PENDIENTE",
+    "idusuario": "233"
+  },
+      {
+    "nombre": "Actividad005",
+    "descripcion": "Que es Gemini AI",
+    "estado": "PENDIENTE",
+    "idusuario": "233"
+  },
+      {
+    "nombre": "Actividad006",
+    "descripcion": "Que es Gemini AI",
+    "estado": "PENDIENTE",
+    "idusuario": "233"
+  }
+]
